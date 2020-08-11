@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+-  I'm currently studing: System development
+- 🌱 I’m currently learning: C# , .NET , SQL , HTML5 and CSS3
+- ⚡ Fun fact: I love to dance 
+
+You can check out my resumé page: https://pownas.github.io/resume
+
 <!--
 **pownas/pownas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
