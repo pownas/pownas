@@ -2,7 +2,7 @@
 
 -  I'm currently studing: System development
 - 🌱 I’m currently learning: C# , .NET , SQL , HTML5 and CSS3
-- ⚡ Fun fact: I love to dance 
+- ⚡ Fun fact: I love to dance 🕺
 
 You can check out my resumé page: https://pownas.github.io/resume
 
