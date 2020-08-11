@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I'm currently studing: System development
+- 👨‍💻 I'm currently studing: System development
 - 🌱 I’m currently learning: C# , .NET , SQL , HTML5 and CSS3
 - ⚡ Fun fact: I love to dance 🕺
 
