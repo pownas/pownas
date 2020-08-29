@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning: **C#** , **.NET** , **SQL** , **.md** , **HTML5** and **CSS3**
 - ⚡ Fun fact: I love to dance 🕺
 
+### Projects
+Some projects I'm currently working on:
+
+- **School projects**
+- **ArvidsonFoto.se** , my dads homepage that I've build from scratch
+- **Jonas.ArvidsonFoto.se** , my own homepage that always needs a facelift
+- **Rockrullarna.se** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 
 
 <!--
