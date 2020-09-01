@@ -8,9 +8,9 @@
 Some projects I'm currently working on:
 
 - **School projects**
-- **ArvidsonFoto.se** , my dads homepage that I've build from scratch
-- **Jonas.ArvidsonFoto.se** , my own homepage that always needs a facelift
-- **Rockrullarna.se** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
+- **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch
+- **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift
+- **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 
 
 <!--
