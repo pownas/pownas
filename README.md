@@ -2,7 +2,13 @@
 
 - :mortar_board: I'm currently studing: System development 👨‍💻
 - 🌱 I’m currently learning: **C#** , **.NET** , **SQL** , **.md** , **HTML5** and **CSS3**
+- 📫 How to reach me: 
+--- 📧[pownas@outlook.com](mailto:pownas@outlook.com) 
+--- 🐦[@pownas](https://twitter.com/pownas)
 - ⚡ Fun fact: I love to dance 🕺
+- Resumé link: [pownas.github.io/resume](https://pownas.github.io/resume/)
+
+
 
 ### Projects
 Some projects I'm currently working on:
