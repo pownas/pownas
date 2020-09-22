@@ -18,7 +18,7 @@ Some projects I'm currently working on:
 - **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch
 - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
-
+- **[Namnsdag](https://pownas.github.io/Namnsdag/)** , a site I wrote to get a iPhone notification with the name of the day
 
 <!--
 **pownas/pownas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
