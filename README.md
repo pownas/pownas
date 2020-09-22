@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mortar_board: I'm currently studing: System development 👨‍💻
-- 🌱 I’m currently learning: **C#** , **.NET** , **SQL** , **.md** , **HTML5** and **CSS3**
+- 🌱 I’m currently learning: **C#** , **.NET** , **SQL** , **.md** , **HTML5**, **CSS3**, **jQuery** and **JavaScript**
 - 📫 How to reach me:
   - 📧mail: [pownas@outlook.com](mailto:pownas@outlook.com)
   - 🐦twitter: [@pownas](https://twitter.com/pownas)
