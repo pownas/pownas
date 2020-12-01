@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mortar_board: I'm currently studing: System development 👨‍💻
-- 🌱 I’m currently learning: **C#** , **.NET** , **SQL** , **.md** , **HTML5**, **CSS3**, **jQuery** and **JavaScript**
+- 🌱 I’m currently learning: **Blazor** , **C# v9.0** , **.NET5** , **T-SQL** , **.md** , **HTML5**, **CSS3**, **jQuery** and **JavaScript**
 - 📫 How to reach me:
   - 📧mail: [pownas@outlook.com](mailto:pownas@outlook.com)
   - 🐦twitter: [@pownas](https://twitter.com/pownas)
@@ -14,6 +14,7 @@ Resumé link:\
 ## Projects
 Some projects I'm currently working on:
 
+- **[Advent of Code 2020](https://github.com/pownas/Advent-Of-Code-2020)** , my take on the https://adventofcode.com/2020 challange
 - **School projects** (ex: [Projekt-IK201G](https://github.com/matildawee/Projekt-IK201G))
 - **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch
 - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift
