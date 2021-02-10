@@ -7,9 +7,9 @@
   - 🐦twitter: [@pownas](https://twitter.com/pownas)
 - ⚡ Fun fact: I love to dance 🕺
 
-## Resumé
-Resumé link:\
-[pownas.github.io/resume](https://pownas.github.io/resume/)
+## CV
+CV link:\
+[pownas.github.io/CV](https://pownas.github.io/CV/)
 
 ## Projects
 Some projects I'm currently working on:
