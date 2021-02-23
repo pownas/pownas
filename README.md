@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mortar_board: I'm currently studing: System development 👨‍💻
-- 🌱 I’m currently learning: **Blazor** , **C# v9.0** , **.NET5** , **T-SQL** , **.md** , **HTML5**, **CSS3**, **jQuery** and **JavaScript**
+- 🌱 I’m currently learning: **Blazor**
 - 📫 How to reach me:
   - 📧mail: [pownas@outlook.com](mailto:pownas@outlook.com)
   - 🐦twitter: [@pownas](https://twitter.com/pownas)
@@ -10,6 +10,19 @@
 ## CV
 CV link:\
 [pownas.github.io/CV](https://pownas.github.io/CV/)
+
+## Languages/Techniques
+Some languages and techniques I've worked with:
+- **C#**
+- **.NET**
+- **ASP.NET**
+- **ASP Classic**
+- **T-SQL**
+- **Markdown**
+- **HTML5**
+- **CSS**
+- **jQuery**
+- **JavaScript**
 
 ## Projects
 Some projects I'm currently working on:
