@@ -3,8 +3,8 @@
 - :mortar_board: I'm currently studing: **System development** 👨‍💻
 - 🌱 I’m currently learning: **Blazor**
 - 📫 How to reach me:
-  - 📧mail: [pownas@outlook.com](mailto:pownas@outlook.com)
-  - 🐦twitter: [@pownas](https://twitter.com/pownas)
+  - 📧Mail: [pownas@outlook.com](mailto:pownas@outlook.com)
+  - 🐦Twitter: [@pownas](https://twitter.com/pownas)
 - ⚡ Fun fact: **I love to dance** 🕺
 
 ## CV
