@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **I love to dance** 🕺
 
 ## CV
-CV link:\
+A link to my Curriculum Vitae:\
 [pownas.github.io/CV](https://pownas.github.io/CV/)
 
 ## Languages/Techniques
@@ -24,7 +24,7 @@ Some projects I'm currently working on:
 <!-- - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift -->
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 - **[Namnsdag](https://pownas.github.io/Namnsdag/)** , a site I wrote to get a iPhone notification with the name of the day
-- [x] [My Github Gists](https://gist.github.com/pownas) , a Quick cheat sheet for Markdown and some config files
+- **[My Github Gists](https://gist.github.com/pownas)** , a Quick cheat sheet for Markdown and some config/helper-files
 <!--
 **pownas/pownas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
