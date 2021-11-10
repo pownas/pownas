@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mortar_board: I'm currently studing: **System development** 👨‍💻
-- 🌱 I’m currently learning: **Blazor**
+- 🌱 I’m currently learning more about: **.NET6**, **C# WebApi** and **Blazor**
 - 📫 How to reach me:
   - 📧Mail: [pownas@outlook.com](mailto:pownas@outlook.com)
   - 🐦Twitter: [@pownas](https://twitter.com/pownas)
@@ -17,13 +17,12 @@ Some languages and techniques I've worked with:
 
 ## Projects
 Some projects I'm currently working on:
-
-- **[Advent of Code 2020](https://github.com/pownas/Advent-Of-Code-2020)** , my take on the https://adventofcode.com/2020 challange
-- **School projects** (ex: [Projekt-IK201G](https://github.com/matildawee/Projekt-IK201G))
 - **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET5](https://github.com/pownas/ArvidsonFoto-MVC-NET5))
+- **School projects** (for example: [Projekt-IK201G](https://github.com/matildawee/Projekt-IK201G) and some other private ones, that you can get information about if you contact me)
 <!-- - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift -->
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 - **[Namnsdag](https://pownas.github.io/Namnsdag/)** , a site I wrote to get a iPhone notification with the name of the day
+- **[Advent of Code 2020](https://github.com/pownas/Advent-Of-Code-2020)** , my take on the https://adventofcode.com/2020 challange
 - **[My Github Gists](https://gist.github.com/pownas)** , a Quick cheat sheet for Markdown and some config/helper-files
 <!--
 **pownas/pownas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
