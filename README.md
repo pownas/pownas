@@ -16,9 +16,13 @@ Some languages and techniques I've worked with:
 **C#**, **.NET**, **ASP.NET**, **ASP Classic**, **T-SQL**, **Markdown**, **HTML5**, **CSS**, **jQuery**, **JavaScript** (and probably some more I've missed). 
 
 ## Projects
+### Project portfolio
+**[github.com/pownas/ProjectsPortfolio](https://github.com/pownas/ProjectsPortfolio)**, my project portfolio where you can see images of my projects I've been working on. 
+
+### Work in progress
 Some projects I'm currently working on:
 - **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET5](https://github.com/pownas/ArvidsonFoto-MVC-NET5))
-- **School projects** (for example: [Projekt-IK201G](https://github.com/matildawee/Projekt-IK201G) and some other private ones, that you can get information about if you contact me)
+- **School projects**, see my: [ProjectsPortfolio/SchoolProjects](https://github.com/pownas/ProjectsPortfolio/tree/main/SchoolProjects/2019HT-2022VT-ORU-Systemvetenskap)
 <!-- - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift -->
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 - **[Namnsdag](https://pownas.github.io/Namnsdag/)** , a site I wrote to get a iPhone notification with the name of the day
