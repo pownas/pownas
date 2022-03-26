@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :mortar_board: I'm currently studing: **System development** 👨‍💻
-- 🌱 I’m currently learning more about: **.NET6**, **C# WebApi** and **Blazor**
+- 🌱 I’m currently learning more about: **.NET7**, **C# WebApi**, **Blazor** and **React.js**
 - 📫 How to reach me:
   - 📧Mail: [pownas@outlook.com](mailto:pownas@outlook.com)
   - 🐦Twitter: [@pownas](https://twitter.com/pownas)
