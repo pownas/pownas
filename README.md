@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- :mortar_board: I'm currently studing: **System development** 👨‍💻
+- 💼 I'm currently working with: **Information security**
+- :mortar_board: I have a bachelor degree in: **System development** 👨‍💻
 - 🌱 I’m currently learning more about: **.NET7**, **C# WebApi**, **Blazor** and **React.js**
 - 📫 How to reach me:
   - 📧Mail: [pownas@outlook.com](mailto:pownas@outlook.com)
@@ -21,7 +22,7 @@ Some languages and techniques I've worked with:
 
 ### Work in progress
 Some projects I'm currently working on:
-- **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET5](https://github.com/pownas/ArvidsonFoto-MVC-NET5))
+- **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET6](https://github.com/pownas/ArvidsonFoto-MVC-NET5))
 - **School projects**, see my: [ProjectsPortfolio/SchoolProjects](https://github.com/pownas/ProjectsPortfolio/tree/main/SchoolProjects/2019HT-2022VT-ORU-Systemvetenskap)
 <!-- - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift -->
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
