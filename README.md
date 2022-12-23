@@ -22,7 +22,7 @@ Check out my **Curriculum Vitae (CV)**: [pownas.github.io/CV](https://pownas.git
 Some languages and techniques I've worked with:  
 **C#**, **.NET**, **ASP.NET WebApi**, **ASP.NET MVC**, **ASP Classic**, **T-SQL**, **Markdown**, **HTML5**, **CSS**, **React.js**, **jQuery**, **JavaScript** (and probably some more I've missed). 
   
-[![Pownas - Most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=pownas&theme=tokyonight&layout=compact)](#)
+[![Pownas - Most used languages on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=pownas&theme=tokyonight&layout=compact)](#-languagestechniques)
 
 ## 💼 Project portfolio
 **[github.com/pownas/ProjectsPortfolio](https://github.com/pownas/ProjectsPortfolio)**, my project portfolio where you can see images of my projects I've been working on. 
