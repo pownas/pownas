@@ -2,9 +2,9 @@
 
 My name is Jonas Arvidson, and here are some info about me:  
   
-💼 **I'm currently working with:** Information security  
+💼 **I'm currently working as a:** System developer in .NET  
 :mortar_board: **I have a bachelor degree in:** System development 👨‍💻  
-🌱 **I’m currently learning more about:** .NET7 and Blazor  
+🌱 **I’m currently learning more about:** Latest .NET and Blazor, via alot of AI Agents  
 ⚡ **Fun fact:** I love to dance 🕺  
 
   
@@ -29,8 +29,8 @@ Some languages and techniques I've worked with:
 
 ## 🏗️ Work in progress
 Some projects I'm currently working on:
-<!-- - **[Jonas.ArvidsonFoto.se](https://Jonas.ArvidsonFoto.se)** , my own homepage that always needs a facelift -->
-- **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET6](https://github.com/pownas/ArvidsonFoto-MVC-NET5))
+- **[pownas.se](https://pownas.se)** , my own homepage that always needs a facelift, also with my [blog.pownas.se](https://blog.pownas.se)
+- **[ArvidsonFoto.se](https://ArvidsonFoto.se)** , my dads homepage that I've build from scratch ([ArvidsonFoto-MVC-NET-web](https://github.com/pownas/ArvidsonFoto-MVC-NET-web))
 - **[School projects](https://github.com/pownas/ProjectsPortfolio/tree/main/SchoolProjects/2019HT-2022VT-ORU-Systemvetenskap)**, see some of my school projects over here: [ProjectsPortfolio/SchoolProjects](https://github.com/pownas/ProjectsPortfolio/tree/main/SchoolProjects/2019HT-2022VT-ORU-Systemvetenskap)
 - **[Rockrullarna.se](https://www.Rockrullarna.se)** , my danceclubs homepage and also a intranet site for the danceclub that I've created in Microsoft365
 - **[Namnsdag](https://pownas.github.io/Namnsdag/)** , a site I wrote to get a iPhone notification with the name of the day
